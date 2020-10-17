@@ -1,6 +1,6 @@
 # Avaliação #04 Builder
 
-Classroom: <?>
+Classroom: <https://classroom.github.com/a/XSgrkT46>
 
 Considere o problema de instanciar alimentos, conforme [`main.ts`](src/main.ts).
 
