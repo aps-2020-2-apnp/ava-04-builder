@@ -1,7 +1,6 @@
-function hello(q: string): void {
-  console.log('Hello', q)
-}
+import { Alimento } from './Alimento'
 
-const quem: string = 'World'
+const cereal = new Alimento('Marmita', 400, 343.3, 52.1, 9.6, 25.3, 0.145, 0.3, 0, 5.5)
 
-hello(quem)
+console.log(cereal);
+console.log(`${cereal}`) // toString
